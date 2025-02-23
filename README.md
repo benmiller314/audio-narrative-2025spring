@@ -40,7 +40,11 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 * Write clear commit messages that signal your process and progress
 * Include a text transcript of your audio file for accessibility and improved search
 <!-- * Use background music to maintain continuity across time jumps / montage -->
-
+<!-- *	Normalize volume so that unimportant tracks don’t drown out others -->
+<!-- * Provide a sense of closure or intentional ending (e.g. a narrative climax, a musical resolution, etc) -->
+<!-- * Seamlessly loop a short audio clip into an extended background layer -->
+<!-- * Document the editing effects you used that would otherwise be invisible (e.g. tool settings) -->
+<!-- * Organize your workspace (e.g. by naming tracks, adding label tracks, linking to files in README, etc) -->
 
 ## Deadlines and products
 
